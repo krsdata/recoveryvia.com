@@ -1,0 +1,1 @@
+[19-Feb-2017 04:47:53 UTC] PHP Fatal error:  Call to a member function library() on null in /home/recoveryvia/public_html/application/controllers/sharemarket.php on line 174
